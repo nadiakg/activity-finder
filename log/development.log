@@ -4802,3 +4802,2240 @@ Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9
 
 
 Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-05 12:12:04 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-08 11:04:54 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (15.2ms)
+Completed 200 OK in 387ms (Views: 380.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-08 11:04:55 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-08 11:16:19 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 126ms (Views: 125.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-08 11:16:20 -0700
+
+
+Started POST "/login" for ::1 at 2015-06-08 11:16:35 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"uCcXG/za2DdbrqL14FeRQXBR7o1bbvlogWrk3VH8boMg6cDkDDMSvlW3/OMt9WytY/KtSRueFw8WHqQRi3s4cQ==", "session"=>{"email"=>"n@n.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT 1  [["email", "n@n.com"]]
+  Rendered sessions/new.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 136ms (Views: 127.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:16:35 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:16:35 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 11:18:10 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (2.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+  Rendered welcome/index.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 142ms (Views: 141.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:18:10 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:18:10 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 11:18:59 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 130ms (Views: 129.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 11:18:59 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-08 11:19:07 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 131ms (Views: 130.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:19:07 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:19:07 -0700
+
+
+Started POST "/login" for ::1 at 2015-06-08 11:19:17 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xac8IF+YKgHGnwliSzgWXTEOjN775zo1Q+/MLJzotjxdaevfr3HgiMiGV3SGmuuxIq3PGrsX1FLUm4zgRm/gzg==", "session"=>{"email"=>"hello@hello.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT 1[0m  [["email", "hello@hello.com"]]
+  Rendered sessions/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 134ms (Views: 130.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:19:18 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:19:18 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 11:19:20 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 114ms (Views: 113.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:19:20 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:19:20 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 11:48:49 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 111ms (Views: 110.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 11:48:49 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 11:49:38 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (10.4ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 168ms (Views: 167.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 11:49:38 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 11:50:25 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_body.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 110ms (Views: 109.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 11:50:25 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 11:52:09 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_body.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 141ms (Views: 140.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 11:52:10 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 11:52:22 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 102ms (Views: 101.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 11:52:22 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 12:10:11 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 3ms
+
+SyntaxError (/Users/nadia_gori/Desktop/activity-finder/app/views/layouts/_header.html.erb:29: syntax error, unexpected '>'
+/Users/nadia_gori/Desktop/activity-finder/app/views/layouts/_header.html.erb:47: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  app/views/layouts/_header.html.erb:29: syntax error, unexpected '>'
+  app/views/layouts/_header.html.erb:47: syntax error, unexpected keyword_ensure, expecting end-of-input
+  app/views/welcome/index.html.erb:1:in `_app_views_welcome_index_html_erb___1594963850088256162_2273888020'
+
+
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.5ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (16.0ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.1ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (9.4ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (21.6ms)
+
+
+Started GET "/" for ::1 at 2015-06-08 12:10:31 -0700
+Processing by WelcomeController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+  Rendered layouts/_header.html.erb (4.3ms)
+  Rendered layouts/_body.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 106ms (Views: 105.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 12:10:31 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-08 12:10:36 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 115ms (Views: 114.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/login" for ::1 at 2015-06-08 12:10:40 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 111ms (Views: 110.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-08 12:11:13 -0700
+Processing by WelcomeController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_body.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 129ms (Views: 129.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 12:11:13 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-08 12:11:16 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 122ms (Views: 121.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signup" for ::1 at 2015-06-08 12:11:18 -0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (2.8ms)
+  Rendered users/new.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 123ms (Views: 120.3ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/users" for ::1 at 2015-06-08 12:11:39 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3cA2zo5R9c77P3QujW0qiuje0fWf3VqMg1WT8FOnhOBFDuExfrg/R/UmKjhAz9dm+32SMd8ttOsUIdM8iSDSEg==", "user"=>{"name"=>"Abel Cruz", "email"=>"abel_cruz@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mUser Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE LOWER("users"."email") = LOWER('abel_cruz@gmail.com') LIMIT 1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "users" ("name", "email", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Abel Cruz"], ["email", "abel_cruz@gmail.com"], ["password_digest", "$2a$10$ZQXYGUvJ1/wgqS8jczqdrOmvkco8to7uFmXu0G5OQz47Gpz8VvC4O"], ["created_at", "2015-06-08 19:11:39.767947"], ["updated_at", "2015-06-08 19:11:39.767947"]]
+  [1m[36m (0.7ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/users/8
+Completed 302 Found in 74ms (ActiveRecord: 1.2ms)
+
+
+Started GET "/users/8" for ::1 at 2015-06-08 12:11:39 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 8]]
+  Rendered users/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 121ms (Views: 119.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:11:39 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:11:39 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 12:11:53 -0700
+Processing by WelcomeController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+  Rendered layouts/_header.html.erb (1.9ms)
+  Rendered layouts/_body.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 121ms (Views: 120.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:11:53 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:11:53 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-08 12:11:55 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 121ms (Views: 120.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/login" for ::1 at 2015-06-08 12:12:06 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"xcjW/88Y0bW8RUlZQEwG0oOd1iCBFG+1a2S4c4DaJ81dBgEAP/EbPLJcF0+N7vs+kD6V5MHkgdL8EPi/Wl1xPw==", "session"=>{"email"=>"abel_cruz@gmail.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT 1  [["email", "abel_cruz@gmail.com"]]
+Redirected to http://localhost:3000/users/8
+Completed 302 Found in 57ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/users/8" for ::1 at 2015-06-08 12:12:07 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 8]]
+  Rendered users/show.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 122ms (Views: 121.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:12:07 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:12:07 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 12:12:15 -0700
+Processing by WelcomeController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 8]]
+  Rendered layouts/_header.html.erb (2.2ms)
+  Rendered layouts/_body.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 122ms (Views: 121.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:12:15 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:12:15 -0700
+
+
+Started GET "/users/8" for ::1 at 2015-06-08 12:12:25 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 8]]
+  Rendered users/show.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 125ms (Views: 123.8ms | ActiveRecord: 0.1ms)
+
+
+Started DELETE "/logout" for ::1 at 2015-06-08 12:12:33 -0700
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"AcaFtKfqCBE5xswbneHNp/kgUOlNH6xXnIpqd0MDpF+ZCFJLVwPCmDffkg1QQzBL6oMTLQ3vQjAL/iq7mYTyrQ=="}
+Completed 500 Internal Server Error in 1ms
+
+ActionView::MissingTemplate (Missing template sessions/destroy, application/destroy with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/nadia_gori/Desktop/activity-finder/app/views"
+):
+  actionview (4.2.0) lib/action_view/path_set.rb:46:in `find'
+  actionview (4.2.0) lib/action_view/lookup_context.rb:121:in `find'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:40:in `determine_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.0) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.0) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.0) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.0) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/nadia_gori/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.2.0) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:92:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:92:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_process_action_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.2.0) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.0) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.0) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal.rb:236:in `block in action'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:42:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:802:in `call'
+  rack (1.6.1) lib/rack/etag.rb:24:in `call'
+  rack (1.6.1) lib/rack/conditionalget.rb:38:in `call'
+  rack (1.6.1) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.1) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.1) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.1) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.1) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.1) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.1) lib/rack/lock.rb:17:in `call'
+  rack (1.6.1) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.1) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/nadia_gori/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/nadia_gori/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/nadia_gori/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.7ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (15.5ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.1ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.1ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (9.0ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (19.2ms)
+
+
+Started GET "/" for ::1 at 2015-06-08 12:13:20 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 8]]
+Completed 200 OK in 128ms (Views: 127.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:13:20 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:13:20 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 12:13:24 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 8]]
+Completed 200 OK in 122ms (Views: 121.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 12:13:24 -0700
+
+
+Started GET "/" for ::1 at 2015-06-08 12:13:29 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+  Rendered welcome/index.html.erb within layouts/application (3.0ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 8]]
+Completed 200 OK in 123ms (Views: 122.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/" for ::1 at 2015-06-08 12:57:53 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 8]]
+Completed 200 OK in 138ms (Views: 137.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-08 12:57:54 -0700
+
+
+Started DELETE "/logout" for ::1 at 2015-06-08 12:57:56 -0700
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"RnHH9qEhOUFtjFfDkz+30VddggHQmbA5tc76fKCerCXevxAJUcjzyGOVCdVenUo9RP7BxZBpXl4iurqwehn61w=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-08 12:57:56 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1
+Completed 200 OK in 116ms (Views: 115.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:57:56 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:57:56 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-08 12:58:09 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.9ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Completed 200 OK in 130ms (Views: 129.3ms | ActiveRecord: 0.1ms)
+
+
+Started POST "/login" for ::1 at 2015-06-08 12:58:25 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"XQCy222PN+i7s+DZJYmX3I55JZRhofuj8Vg6PW7/1gLFzmUknWb9YbWqvs/oK2owndpmUCFRFcRmLHrxtHiA8A==", "session"=>{"email"=>"abel_cruz@gmail.com", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT 1  [["email", "abel_cruz@gmail.com"]]
+Redirected to http://localhost:3000/users/8
+Completed 302 Found in 57ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/users/8" for ::1 at 2015-06-08 12:58:25 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 8]]
+  Rendered users/show.html.erb within layouts/application (0.1ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 8]]
+Completed 200 OK in 130ms (Views: 128.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:58:25 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:58:25 -0700
+
+
+Started DELETE "/logout" for ::1 at 2015-06-08 12:58:30 -0700
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"q1d31rknyJSsUc+Mi5T5wB41SbdP0dj+EfPAmQgvvuMzmaApSc4CHaJIkZpGNgQsDZYKcw8hNpmGh4BV0qjoEQ=="}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-06-08 12:58:30 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" IS NULL LIMIT 1[0m
+Completed 200 OK in 116ms (Views: 115.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-08 12:58:30 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-08 12:58:30 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to AddRememberDigestToUsers (20150609173319)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.4ms)[0m  [1mALTER TABLE "users" ADD "remember_digest" varchar[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20150609173319"]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+
+
+Started GET "/" for ::1 at 2015-06-09 12:06:32 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (88.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+  Rendered welcome/index.html.erb within layouts/application (92.8ms)
+Completed 500 Internal Server Error in 326ms
+
+ActionView::Template::Error (undefined method `singed' for #<ActionDispatch::Cookies::CookieJar:0x00000101d46f00>):
+    33:       <div id="navbar" class="collapse navbar-collapse">
+    34:         <ul class="nav navbar-nav">
+    35:           <li><%= link_to "Home", root_path %></li>
+    36:           <% if logged_in? %>
+    37:             <li><%= link_to "Users", '#' %></li>
+    38:             <li class="dropdown">
+    39:               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Account <b class="caret"></b></a>
+  app/helpers/sessions_helper.rb:16:in `current_user'
+  app/helpers/sessions_helper.rb:25:in `logged_in?'
+  app/views/layouts/application.html.erb:36:in `_app_views_layouts_application_html_erb__3076127579470638402_2162061700'
+
+
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.5ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (16.3ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.1ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.1ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/console.js.erb within layouts/javascript (8.8ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/nadia_gori/.rvm/gems/ruby-2.1.0/gems/web-console-2.1.2/lib/web_console/templates/index.html.erb (19.3ms)
+
+
+Started GET "/" for ::1 at 2015-06-09 12:13:51 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 127ms (Views: 126.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-09 12:13:51 -0700
+
+
+Started GET "/signup" for ::1 at 2015-06-09 12:13:58 -0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (1.4ms)
+  Rendered users/new.html.erb within layouts/application (12.4ms)
+Completed 200 OK in 153ms (Views: 147.2ms | ActiveRecord: 0.4ms)
+
+
+Started POST "/users" for ::1 at 2015-06-09 12:14:19 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"HKGAQAvO1R7OshzxTFiv8/FJt2aDVXx+Wbrm8u1Zyx2Eb1e/+ycfl8CrQueB+lIf4ur0osOlkhnOzqY+N96d7w==", "user"=>{"name"=>"NadiaKG", "email"=>"nadinkg@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mUser Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "users" WHERE LOWER("users"."email") = LOWER('nadinkg@gmail.com') LIMIT 1[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered shared/_error_messages.html.erb (0.7ms)
+  Rendered users/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 213ms (Views: 144.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 12:14:19 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 12:14:19 -0700
+
+
+Started POST "/users" for ::1 at 2015-06-09 12:14:37 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"fMAwDmlh+Eiqtk9nHjUKEupqfOT8smUUDPiCibyOaP3kDufxmYgywaSvEXHTl/f++ck/ILxCi3ObjMJFZgk+Dw==", "user"=>{"name"=>"NadiaKG", "email"=>"nadiakg@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Exists (0.1ms)[0m  SELECT  1 AS one FROM "users" WHERE LOWER("users"."email") = LOWER('nadiakg@gmail.com') LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("name", "email", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "NadiaKG"], ["email", "nadiakg@gmail.com"], ["password_digest", "$2a$10$E1tmuZ.vzL1EiLGBO2wxXOBhu59kMvLLLyCZ9H5fb4Ew31UztRlRG"], ["created_at", "2015-06-09 19:14:37.128308"], ["updated_at", "2015-06-09 19:14:37.128308"]]
+  [1m[35m (1.4ms)[0m  commit transaction
+Redirected to http://localhost:3000/users/9
+Completed 302 Found in 61ms (ActiveRecord: 1.8ms)
+
+
+Started GET "/users/9" for ::1 at 2015-06-09 12:14:37 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+  Rendered users/show.html.erb within layouts/application (0.3ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 9]]
+Completed 200 OK in 134ms (Views: 130.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 12:14:37 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 12:14:37 -0700
+
+
+Started GET "/users/9" for ::1 at 2015-06-09 12:14:41 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+  Rendered users/show.html.erb within layouts/application (0.3ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 9]]
+Completed 200 OK in 128ms (Views: 127.0ms | ActiveRecord: 0.1ms)
+
+
+Started DELETE "/logout" for ::1 at 2015-06-09 12:14:48 -0700
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"0niwZVFpXYiG8Y/1uqHyU6dSn5Bm+vL7OcKjOjS+Ox5KtmeaoYCXAYjo0eN3Aw+/tPHcVCYKHJyutuP27jlt7A=="}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/" for ::1 at 2015-06-09 12:14:48 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 132ms (Views: 131.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 12:14:48 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 12:14:48 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-09 12:14:50 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 109ms (Views: 108.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/login" for ::1 at 2015-06-09 12:15:04 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"nFzBJ2FCj1Ph2R5p3eUyke6E9Ny5UMyB6Z1Yv1yAyRsEkhbYkatF2u/AQH8QR899/Se3GPmgIuZ+6Rhzhgef6Q==", "session"=>{"email"=>"nadiakg@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"1"}, "commit"=>"Log in"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT 1  [["email", "nadiakg@gmail.com"]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "users" SET "remember_digest" = ?, "updated_at" = ? WHERE "users"."id" = ?  [["remember_digest", "$2a$10$yH45G3gT9bvMXb5hEO3YS.5rcMPVAi1JcXoaW/Gth9xLcG0A/BV5a"], ["updated_at", "2015-06-09 19:15:05.060766"], ["id", 9]]
+  [1m[36m (0.7ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/users/9
+Completed 302 Found in 119ms (ActiveRecord: 1.2ms)
+
+
+Started GET "/users/9" for ::1 at 2015-06-09 12:15:05 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 9]]
+  Rendered users/show.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+Completed 200 OK in 114ms (Views: 113.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 12:15:05 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 12:15:05 -0700
+
+
+Started GET "/" for ::1 at 2015-06-09 12:15:42 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 9]]
+Completed 200 OK in 141ms (Views: 140.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-09 12:15:42 -0700
+
+
+Started DELETE "/logout" for ::1 at 2015-06-09 12:16:42 -0700
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"cwUG395uT/7dokm5N004PD9ErMPPR10x+9Y7qhrKPPjry9EgLoeFd9O7F6/678XQLOfvB4+3s1ZsontmwE1qCg=="}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "users" SET "remember_digest" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["remember_digest", nil], ["updated_at", "2015-06-09 19:16:42.523653"], ["id", 9]]
+  [1m[35m (1.1ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 1.4ms)
+
+
+Started GET "/" for ::1 at 2015-06-09 12:16:42 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 101ms (Views: 100.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 12:16:42 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 12:16:42 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-09 12:16:44 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 141ms (Views: 140.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/login" for ::1 at 2015-06-09 12:17:08 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Muo0PuNITaaCczclH+dsg5DcYujnBsTPO40YQSgCDYGqJOPBE6GHL4xqaTPSRZFvg38hLKf2Kqis+ViN8oVbcw==", "session"=>{"email"=>"nadiakg@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"1"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT 1[0m  [["email", "nadiakg@gmail.com"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mUPDATE "users" SET "remember_digest" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["remember_digest", "$2a$10$ls43loVnU5Su3lqK9ab6LOd8lAN/eOm7XLL3MVEmOezC.OVF2N7k."], ["updated_at", "2015-06-09 19:17:08.661187"], ["id", 9]]
+  [1m[35m (1.5ms)[0m  commit transaction
+Redirected to http://localhost:3000/users/9
+Completed 302 Found in 120ms (ActiveRecord: 2.0ms)
+
+
+Started GET "/users/9" for ::1 at 2015-06-09 12:17:08 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+  Rendered users/show.html.erb within layouts/application (0.1ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 9]]
+Completed 200 OK in 117ms (Views: 116.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 12:17:08 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 12:17:08 -0700
+
+
+Started GET "/" for ::1 at 2015-06-09 12:17:17 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+Completed 200 OK in 144ms (Views: 143.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 12:17:17 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 12:17:17 -0700
+
+
+Started GET "/" for ::1 at 2015-06-09 13:46:49 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (82.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+  Rendered welcome/index.html.erb within layouts/application (85.8ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 9]]
+Completed 200 OK in 331ms (Views: 324.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/activity_finder.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/application.self-1f5d96935afb86a3446083be08a21c9f82dcb9dcc73989e80870a7668c218e55.css?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f9a39c763f843f10d64a1e875f5780646a03819f040c618b42efe600b80f0ddc.css?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/custom.self-a677fdec09092edf49ae0d183bc1b4cf1cb1332ac9b6d3370c4d0ee5a2d1f96c.css?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/affix.self-68d1a5161d04ca9fe1b9d9f4114d9426c7798bf90f2703a97aca35c8113469bb.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/alert.self-15ce09eba576e56db3edfd87accc0ff48823df915169e350b4fd97290f96aee1.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/button.self-37c62bff1d75f86f3348b8679873d5156d8b9938b62841038dca21690f4740f1.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/carousel.self-9aaab1a477b9c1156bab751cb8da47f77dace6da88eef8ae830e60f3cff3a8be.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/collapse.self-eeece00cd06a3d7cc071ab7845b549d4991edd0f0895e4be70fe40bac2fb5f4b.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.self-a3998e7ca949c04cb86b5c635deb0abcc7a24dc02e81be66b8acfef02d811e45.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/tab.self-e1bba7115c90301056ee94c4716de2fcbe4498015def2dab9ff9879f339bd245.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/transition.self-7742dca5e6acf313fbb217811b48468282cddf1a9baea5c89ec92e367ef242cb.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.self-5ea180afe4404f83fc97d997833f2edefd34475b0b5ddab310e27abc2bbd5f2f.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/modal.self-f2759e138605770e60526c00c6d86cbb3378da203641f9d6b204c9f0192b9267.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.self-c3b5c16f394ab9c0391db4431aac4f2d2ddf1bba4c5d3228ed343de05ecc8e83.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap/popover.self-2674d99c3ab0415dba0b958a80b3840f70ff6368b155d890306c0291be49453b.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/activity_finder.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/sessions.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/application.self-b870f4765c2fcbf8cabec8478e3e32aa02ac855d9f609c451d170b187ee785a3.js?body=1" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/logo-eb3840d99ac41b53ccbff813a550752363ab69cdf5130401dfecc9ad36a3c81a.png" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started GET "/assets/half_dome-280fd1cea12a048da7d4b845d1e208182eade2cedc84d5684ebe8f62260dedd8.jpg" for ::1 at 2015-06-09 13:46:49 -0700
+
+
+Started DELETE "/logout" for ::1 at 2015-06-09 13:46:53 -0700
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"u7vSuHlu4xlSY6gVShoZ1kEJrFrR2+a/8onHgqaJOfkjdQVHiYcpkFx69gOHuOQ6UqrvnpErCNhl/YdOfA5vCw=="}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mUPDATE "users" SET "remember_digest" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["remember_digest", nil], ["updated_at", "2015-06-09 20:46:53.841140"], ["id", 9]]
+  [1m[35m (1.1ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 4ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/" for ::1 at 2015-06-09 13:46:53 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 131ms (Views: 130.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 13:46:54 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 13:46:54 -0700
+
+
+Started GET "/login" for ::1 at 2015-06-09 13:46:56 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 143ms (Views: 142.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/login" for ::1 at 2015-06-09 13:47:13 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZMt7GxuClc3RKXgjWIk7lnnaaAXIEWfYkHylJ5gLKqz8Bazk62tfRN8wJjWVK8Z6ankrwYjhib8HCOXrQox8Xg==", "session"=>{"email"=>"nadiakg@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"1"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."email" = ? LIMIT 1[0m  [["email", "nadiakg@gmail.com"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "users" SET "remember_digest" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["remember_digest", "$2a$10$v0mK4E7Bsv.oJ3OcaMmui.QpURwvL5d4PNB2S3x0HhExBeG9vF7py"], ["updated_at", "2015-06-09 20:47:13.370226"], ["id", 9]]
+  [1m[35m (1.4ms)[0m  commit transaction
+Redirected to http://localhost:3000/users/9
+Completed 302 Found in 119ms (ActiveRecord: 1.9ms)
+
+
+Started GET "/users/9" for ::1 at 2015-06-09 13:47:13 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+  Rendered users/show.html.erb within layouts/application (0.4ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 9]]
+Completed 200 OK in 136ms (Views: 134.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 13:47:13 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 13:47:13 -0700
+
+
+Started GET "/" for ::1 at 2015-06-09 13:47:15 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+  Rendered welcome/index.html.erb within layouts/application (2.5ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 9]]
+Completed 200 OK in 126ms (Views: 125.6ms | ActiveRecord: 0.1ms)
+
+
+Started DELETE "/logout" for ::1 at 2015-06-09 13:47:19 -0700
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"xuarkzTAw2JaxmH2fmaoprbgcIweQNMHh/q27Gc6MHpeKHxsxCkJ61TfP+CzxFVKpUMzSF6wPWAQjvYgvb1miA=="}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 9]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "users" SET "remember_digest" = ?, "updated_at" = ? WHERE "users"."id" = ?  [["remember_digest", nil], ["updated_at", "2015-06-09 20:47:19.923306"], ["id", 9]]
+  [1m[36m (1.2ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 3ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/" for ::1 at 2015-06-09 13:47:19 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 130ms (Views: 129.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-sprockets" for ::1 at 2015-06-09 13:47:20 -0700
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-06-09 13:47:20 -0700
+
+
+Started GET "/" for ::1 at 2015-06-09 13:47:22 -0700
+Processing by WelcomeController#index as HTML
+  Rendered layouts/_body.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered welcome/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 137ms (Views: 136.8ms | ActiveRecord: 0.0ms)
