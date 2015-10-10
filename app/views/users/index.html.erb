@@ -2,10 +2,14 @@
 
 <%= will_paginate %>
 
-<ul class="users">
+<!-- <ul class="users">
   <% @users.each do |user| %>
     <%= render user %>
   <% end %>
+</ul> -->
+
+<ul class="users">
+	<%= render @users %>
 </ul>
 
 <%= will_paginate %>
