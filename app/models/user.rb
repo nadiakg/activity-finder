@@ -1,5 +1,9 @@
 class User < ActiveRecord::Base
 	has_many :posts, dependent: :destroy
+	has_many :active_followers, class_name: "Follower", foreign_key: "follower_id", dependent: :destroy
+	has_many :passive_followers, class_name: "Follower", foreign_key: "followed_id", dependent: :destroy
+	has_many :following, through: :active_followers, source: :followed
+	has_many :followers, through: :passive_followers, source: :follower
 	attr_accessor :remember_token, :activation_token, :reset_token
 	before_save :downcase_email
 	before_create :create_activation_digest
@@ -64,7 +68,22 @@ class User < ActiveRecord::Base
 	end
 
 	def feed
-		Post.where("user_id = ?", id)
+		following_ids = "SELECT followed_id FROM followers
+                     WHERE  follower_id = :user_id"
+    	Post.where("user_id IN (#{following_ids})
+                     OR user_id = :user_id", user_id: id)
+	end
+
+	def follow(other_user)
+		active_followers.create(followed_id: other_user.id)
+	end
+
+	def unfollow(other_user)
+		active_followers.find_by(followed_id: other_user.id).destroy
+	end
+
+	def following?(other_user)
+		following.include?(other_user)
 	end
 
 	private
